@@ -1,0 +1,99 @@
+sentbaldwin	Sen. TAMMY BALDWIN, D-Wis.
+senjbanks	Sen. JIM BANKS, R-Ind.
+senjbarrasso	Sen. JOHN BARRASSO, R-Wyo.
+senmbennet	Sen. MICHAEL F. BENNET, D-Colo.
+senmblackburn	Sen. MARSHA BLACKBURN, R-Tenn.
+senrblumenthal	Sen. RICHARD BLUMENTHAL, D-Conn.
+senlbluntrochester	Sen. LISA BLUNT ROCHESTER, D-Del.
+sencbooker	Sen. CORY A. BOOKER, D-N.J.
+senjboozman	Sen. JOHN BOOZMAN, R-Ark.
+senkbritt	Sen. KATIE BOYD BRITT, R-Ala.
+sentbudd	Sen. TED BUDD, R-N.C.
+senmcantwell	Sen. MARIA CANTWELL, D-Wash.
+senscapito	Sen. SHELLEY MOORE CAPITO, R-W.Va.
+senbcassidy	Sen. BILL CASSIDY, R-La.
+senscollins	Sen. SUSAN M. COLLINS, R-Maine
+senccoons	Sen. CHRISTOPHER A. COONS, D-Del.
+senjcornyn	Sen. JOHN CORNYN, R-Texas
+senccortezmasto	Sen. CATHERINE CORTEZ MASTO, D-Nev.
+sentcotton	Sen. TOM COTTON, R-Ark.
+senkcramer	Sen. KEVIN CRAMER, R-N.D.
+senmcrapo	Sen. MIKE CRAPO, R-Idaho
+sentcruz	Sen. TED CRUZ, R-Texas
+senjcurtis	Sen. JOHN R. CURTIS, R-Utah
+sensdaines	Sen. STEVE DAINES, R-Mont.
+sentduckworth	Sen. TAMMY DUCKWORTH, D-Ill.
+senrdurbin	Sen. RICHARD J. DURBIN, D-Ill.
+senjernst	Sen. JONI ERNST, R-Iowa
+senjfetterman	Sen. JOHN FETTERMAN, D-Pa.
+sendfischer	Sen. DEB FISCHER, R-Neb.
+senrgallego	Sen. RUBEN GALLEGO, D-Ariz.
+senkgillibrand	Sen. KIRSTEN E. GILLIBRAND, D-N.Y.
+senlgraham	Sen. LINDSEY GRAHAM, R-S.C.
+sencgrassley	Sen. CHUCK GRASSLEY, R-Iowa
+senbhagerty	Sen. BILL HAGERTY, R-Tenn.
+senmhassan	Sen. MARGARET WOOD HASSAN, D-N.H.
+senjhawley	Sen. JOSH HAWLEY, R-Mo.
+senmheinrich	Sen. MARTIN HEINRICH, D-N.M.
+senjhickenlooper	Sen. JOHN W. HICKENLOOPER, D-Colo.
+senmhirono	Sen. MAZIE K. HIRONO, D-Hawaii
+senjhoeven	Sen. JOHN HOEVEN, R-N.D.
+senjhusted	Sen. JON HUSTED, R-Ohio
+senchyde-smith	Sen. CINDY HYDE-SMITH, R-Miss.
+senrjohnson	Sen. RON JOHNSON, R-Wis.
+senjjustice	Sen. JAMES C. JUSTICE, R-W.Va.
+sentkaine	Sen. TIM KAINE, D-Va.
+senmkelly	Sen. MARK KELLY, D-Ariz.
+senjkennedy	Sen. JOHN KENNEDY, R-La.
+senakim	Sen. ANDY KIM, D-N.J.
+senaking	Sen. ANGUS S., KING JR., R-Maine
+senaklobuchar	Sen. AMY KLOBUCHAR, D-Minn.
+senjlankford	Sen. JAMES LANKFORD, R-Okla.
+senmlee	Sen. MIKE LEE, R-Utah
+senbluj n	Sen. BEN RAY LUJ N, D-N.M.
+senclummis	Sen. CYNTHIA M. LUMMIS, R-Wyo.
+senemarkey	Sen. EDWARD J. MARKEY, D-Mass.
+senrmarshall	Sen. ROGER MARSHALL, R-Kan.
+senmmcconnell	Sen. MITCH MCCONNELL, R-Ky.
+sendmccormick	Sen. DAVID MCCORMICK, R-Pa.
+senjmerkley	Sen. JEFF MERKLEY, D-Ore.
+senamoody	Sen. ASHLEY MOODY, R-Fla.
+senjmoran	Sen. JERRY MORAN, R-Kan.
+senbmoreno	Sen. BERNIE MORENO, R-Ohio
+senmmullin	Sen. MARKWAYNE MULLIN, R-Okla.
+senlmurkowski	Sen. LISA MURKOWSKI, R-Alaska
+sencmurphy	Sen. CHRISTOPHER MURPHY, D-Conn.
+senpmurray	Sen. PATTY MURRAY, D-Wash.
+senjossoff	Sen. JON OSSOFF, D-Ga.
+senapadilla	Sen. ALEX PADILLA, D-Calif.
+senrpaul	Sen. RAND PAUL, R-Ky.
+sengpeters	Sen. GARY C. PETERS, D-Mich.
+senjreed	Sen. JACK REED, D-R.I.
+senpricketts	Sen. PETE RICKETTS, R-Neb.
+senjrisch	Sen. JAMES E. RISCH, R-Idaho
+senjrosen	Sen. JACKY ROSEN, D-Nev.
+senmrounds	Sen. MIKE ROUNDS, R-S.D.
+senbsanders	Sen. BERNARD SANDERS, R-Vt.
+senbschatz	Sen. BRIAN SCHATZ, D-Hawaii
+senaschiff	Sen. ADAM B. SCHIFF, D-Calif.
+seneschmitt	Sen. ERIC SCHMITT, R-Mo.
+sencschumer	Sen. CHARLES E. SCHUMER, D-N.Y.
+senrscott	Sen. RICK SCOTT, R-Fla.
+sentscott	Sen. TIM SCOTT, R-S.C.
+senjshaheen	Sen. JEANNE SHAHEEN, D-N.H.
+sentsheehy	Sen. TIM SHEEHY, R-Mont.
+seneslotkin	Sen. ELISSA SLOTKIN, D-Mich.
+sentsmith	Sen. TINA SMITH, D-Minn.
+sendsullivan	Sen. DAN SULLIVAN, R-Alaska
+senjthune	Sen. JOHN THUNE, R-S.D.
+senttillis	Sen. THOM TILLIS, R-N.C.
+senttuberville	Sen. TOMMY TUBERVILLE, R-Ala.
+sencvanhollen	Sen. CHRIS VAN HOLLEN, D-Md.
+senmwarner	Sen. MARK R. WARNER, D-Va.
+senrwarnock	Sen. RAPHAEL G. WARNOCK, D-Ga.
+senewarren	Sen. ELIZABETH WARREN, D-Mass.
+senpwelch	Sen. PETER WELCH, D-Vt.
+senswhitehouse	Sen. SHELDON WHITEHOUSE, D-R.I.
+senrwicker	Sen. ROGER F. WICKER, R-Miss.
+senrwyden	Sen. RON WYDEN, D-Ore.
+sentyoung	Sen. TODD YOUNG, R-Ind.
